@@ -1,2 +1,2 @@
 # VeggieFresh
-# This is a service.
+# API
